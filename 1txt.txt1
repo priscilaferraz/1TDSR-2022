@@ -1,0 +1,110 @@
+Pr301119 
+
+
+(regras e funcionalidades software que vamos construir)
+Agile - Processo de construção de software -  planejamento escopo e cronograma
+Levantamento e análise de requisitos - Scrum
+Modelagem do projeto
+Implementação camadas MVC (Front - back - BD - INFRA)
+
+Banco
+Nomenclatura de tabelas,  chave primária, chave estrangeira , relacionamento, comandos atraves do SQL (LINGUAGEM) ddl 
+comandos de crianção e manutenção de estruturas de tabelas create table alter table
+dml comando de manipulação dos dados insert update e delete - consulta no banco
+
+Nós criamos um projeto do zero - escopo, levantamento e analise de requisitos - backlog do produto -
+diagramas para implementação de cada camada - metodologia agil - SCRUM
+Criamos as regras de negócio - os dados que iriam persistir no banco de dados relacional, estrutura de armazenamento, na visao logica 
+e fisica, implementamos o banco de dados através da linguagem SQL - 
+divisao DDL RESPONS PELOS COMANDOS para criacao e manutenção da estrutura do banco de dados create table- alter table - drop table
+divisao DML manipulação dos dados. INSERT - UPDATE E DELETE - CRUD
+divisao DQL consulta dados
+divisao DRS recuperacao de dados SELECT
+JUNCOES DE TABELAS INNER JOIN
+
+implementei a aplicação de front end - utilizando para construção html css javaScript e React consumindo uma API
+a API foi desenvolvida na linguagem Java - orientada a objetos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.anjosdobrasil.net/pitch.html
+https://inovacaosebraeminas.com.br/3-exemplos-de-elevator-pitch-para-voce-aprender-a-fazer-o-seu/
+
+
+
+study English - filme de repente 30 - 20 min (fds)
+Verbs(fds)
+
+
+Present Perfect Simple
+Present Perfect Continuos
+
+Past Perfect Simple
+Past Perfect Continuos
+
+Future Perfect
+Future Perfect Continuos
+
+
+
+
+lista ok
+zip - organiza os valores de uma lista ex (alunos, notas)
+format - campos de substituição
+range- percorre uma lista
+append- adiciona um item ao final da lista
+pop - exclui o ultimo item da lista
+ler a documentação.
+
+ctrl 3 ggas
+
+
+
+projeto um amor de Natal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
